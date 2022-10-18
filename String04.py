@@ -6,5 +6,5 @@ def main(s):
     Returns:
         bool: answer
     """
-    return s.islower()
+    return s.islower() 
 print(main('codeschool'))        
